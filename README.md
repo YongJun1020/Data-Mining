@@ -1,7 +1,9 @@
 Bank Loan Approval Prediction
+
 This project aims to develop a predictive model to determine whether a bank should approve or deny a loan application. The dataset provided includes various features relevant to loan approval decisions.
 
 Models Used
+
 We will employ the following machine learning models to build and evaluate our prediction system:
  1.	Logistic Regression: A statistical model that estimates the probability of a binary outcome. This model will help us understand the relationship between the features and the likelihood of loan approval.
  2.	Support Vector Machine (SVM): A supervised learning model used for classification tasks. It finds the hyperplane that best separates different classes in the feature space, providing robust classification performance.
